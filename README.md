@@ -296,3 +296,9 @@ Please remember: this is an experimental after-hours unpaid hobby science projec
 For issues, please open a GitHub issue or contact: nate.o.schmidt@coldhammer.net
 
 **`EOF`**
+
+## Related (May 2026)
+
+The quaternion mathematics here connects to PLATO-NG's spectral analysis.
+The conservation law provides the energy constraint for tri-quarter transformations.
+See plato-ng core/conservation.py.
